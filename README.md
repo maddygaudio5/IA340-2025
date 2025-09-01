@@ -13,7 +13,7 @@ analytics
 # Grading
 - Attendence
 - Lab exersizes
-  *Lab 1(https://github.com/maddygaudio5/IA340-2025/blob/main/lab1.ipynb)
+[Lab 1](https://github.com/maddygaudio5/IA340-2025/blob/main/lab1.ipynb)
 - Class projects(2)
 
 # Hashtags indicate different level
